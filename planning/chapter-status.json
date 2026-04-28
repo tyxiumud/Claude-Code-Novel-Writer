@@ -1,0 +1,470 @@
+{
+  "chapter_1": {
+    "status": "published",
+    "title": "抉择系统，三年之期",
+    "chinese_chars": 1962,
+    "words_estimated": 3077,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "起势篇",
+    "hook_type": "认知钩子",
+    "system_option": "basic",
+    "parent_child_phase": "怀疑期",
+    "foreshadowing_buried": [
+      "F-001"
+    ],
+    "foreshadowing_resolved": [],
+    "issue_ids": []
+  },
+  "chapter_2": {
+    "status": "published",
+    "title": "少府登门，犁定乾坤",
+    "chinese_chars": 3834,
+    "words_estimated": 4804,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "起势篇",
+    "hook_type": "行动钩子",
+    "system_option": null,
+    "parent_child_phase": "怀疑期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [],
+    "issue_ids": []
+  },
+  "chapter_3": {
+    "status": "published",
+    "title": "硫磺疑云，反钓咸阳",
+    "chinese_chars": 3214,
+    "words_estimated": 4078,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "起势篇",
+    "hook_type": "反转钩子",
+    "system_option": "basic",
+    "parent_child_phase": "怀疑期",
+    "foreshadowing_buried": [
+      "F-003"
+    ],
+    "foreshadowing_resolved": [],
+    "issue_ids": []
+  },
+  "chapter_4": {
+    "status": "published",
+    "title": "灞桥烟雨，犁开新局",
+    "chinese_chars": 3613,
+    "words_estimated": 4590,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "起势篇",
+    "hook_type": "感官钩子",
+    "system_option": null,
+    "parent_child_phase": "试探期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [],
+    "issue_ids": []
+  },
+  "chapter_5": {
+    "status": "published",
+    "title": "田亩杀机，以工代赈",
+    "chinese_chars": 4135,
+    "words_estimated": 5373,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "起势篇",
+    "hook_type": "情绪钩子",
+    "system_option": "high_risk",
+    "parent_child_phase": "试探期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [],
+    "issue_ids": []
+  },
+  "chapter_6": {
+    "status": "published",
+    "title": "咸阳行·初遇宦海波",
+    "chinese_chars": 3175,
+    "words_estimated": 3953,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "入局篇",
+    "hook_type": "时间钩子",
+    "system_option": "basic",
+    "parent_child_phase": "试探期",
+    "foreshadowing_buried": [
+      "F-005"
+    ],
+    "foreshadowing_resolved": [],
+    "issue_ids": []
+  },
+  "chapter_7": {
+    "status": "published",
+    "title": "咸阳行·少府风云",
+    "chinese_chars": 4837,
+    "words_estimated": 6168,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "入局篇",
+    "hook_type": "行动钩子",
+    "system_option": null,
+    "parent_child_phase": "试探期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [],
+    "issue_ids": []
+  },
+  "chapter_8": {
+    "status": "published",
+    "title": "丹坊探秘，火药真相",
+    "chinese_chars": 4036,
+    "words_estimated": 5176,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "入局篇",
+    "hook_type": "认知钩子",
+    "system_option": "basic",
+    "parent_child_phase": "试探期",
+    "foreshadowing_buried": [
+      "F-004"
+    ],
+    "foreshadowing_resolved": [
+      "F-002"
+    ],
+    "issue_ids": []
+  },
+  "chapter_9": {
+    "status": "published",
+    "title": "皇子身份·朝堂风云",
+    "chinese_chars": 3998,
+    "words_estimated": 4755,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "入局篇",
+    "hook_type": "反转钩子",
+    "system_option": "hidden",
+    "parent_child_phase": "试探期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [],
+    "issue_ids": []
+  },
+  "chapter_10": {
+    "status": "published",
+    "title": "推广突破·千户目标",
+    "chinese_chars": 3163,
+    "words_estimated": 4250,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "入局篇",
+    "hook_type": "情绪钩子",
+    "system_option": "basic",
+    "parent_child_phase": "试探期",
+    "foreshadowing_buried": [
+      "F-008"
+    ],
+    "foreshadowing_resolved": [
+      "F-007"
+    ],
+    "issue_ids": []
+  },
+  "chapter_11": {
+    "status": "published",
+    "title": "父子默契·信任萌芽",
+    "chinese_chars": 2469,
+    "words_estimated": 3191,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "破冰篇",
+    "hook_type": "情绪钩子",
+    "system_option": null,
+    "parent_child_phase": "试探期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [],
+    "issue_ids": []
+  },
+  "chapter_12": {
+    "status": "published",
+    "title": "灞桥会面·暗流初现",
+    "chinese_chars": 2484,
+    "words_estimated": 3279,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "破冰篇",
+    "hook_type": "感官钩子",
+    "system_option": "basic",
+    "parent_child_phase": "试探期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [],
+    "issue_ids": []
+  },
+  "chapter_13": {
+    "status": "draft",
+    "title": "农器监立·工坊初建",
+    "chinese_chars": 2361,
+    "words_estimated": 3000,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "破冰篇",
+    "needs_revision": true,
+    "issues": [
+      "字数不足(目标2000-4000)"
+    ],
+    "hook_type": null,
+    "system_option": null,
+    "parent_child_phase": "试探期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [],
+    "issue_ids": [
+      "I-001"
+    ]
+  },
+  "chapter_14": {
+    "status": "draft",
+    "title": "朝堂暗涌·釜底抽薪",
+    "chinese_chars": 1978,
+    "words_estimated": 2500,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "破冰篇",
+    "needs_revision": true,
+    "issues": [
+      "字数不足(目标2000-4000)"
+    ],
+    "hook_type": null,
+    "system_option": "high_risk",
+    "parent_child_phase": "试探期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [
+      "F-004"
+    ],
+    "issue_ids": [
+      "I-002"
+    ]
+  },
+  "chapter_15": {
+    "status": "draft",
+    "title": "扶苏夜访·红薯献礼",
+    "chinese_chars": 2048,
+    "words_estimated": 2600,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "破冰篇",
+    "needs_revision": true,
+    "issues": [
+      "字数不足(目标2000-4000)"
+    ],
+    "hook_type": null,
+    "system_option": "basic",
+    "parent_child_phase": "试探期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [
+      "F-005"
+    ],
+    "issue_ids": [
+      "I-003"
+    ]
+  },
+  "chapter_16": {
+    "status": "draft",
+    "title": "骊山之行·危机四伏",
+    "chinese_chars": 3550,
+    "words_estimated": 4500,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "布局篇",
+    "hook_type": null,
+    "system_option": null,
+    "parent_child_phase": "合作期",
+    "foreshadowing_buried": [
+      "F-006"
+    ],
+    "foreshadowing_resolved": [
+      "F-003"
+    ],
+    "issue_ids": []
+  },
+  "chapter_17": {
+    "status": "draft",
+    "title": "真相大白·六国暗棋",
+    "chinese_chars": 2773,
+    "words_estimated": 3500,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "布局篇",
+    "hook_type": null,
+    "system_option": "basic",
+    "parent_child_phase": "合作期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [],
+    "issue_ids": []
+  },
+  "chapter_18": {
+    "status": "draft",
+    "title": "官运亨通·利用反制",
+    "chinese_chars": 3409,
+    "words_estimated": 4300,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "布局篇",
+    "hook_type": null,
+    "system_option": null,
+    "parent_child_phase": "合作期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [],
+    "issue_ids": []
+  },
+  "chapter_19": {
+    "status": "draft",
+    "title": "火药扬威·北伐匈奴",
+    "chinese_chars": 2510,
+    "words_estimated": 3200,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "布局篇",
+    "needs_revision": true,
+    "issues": [
+      "字数不足(目标2000-4000)"
+    ],
+    "hook_type": null,
+    "system_option": "hidden",
+    "parent_child_phase": "合作期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [
+      "F-006"
+    ],
+    "issue_ids": [
+      "I-004"
+    ]
+  },
+  "chapter_20": {
+    "status": "draft",
+    "title": "封侯拜将·沙丘部署",
+    "chinese_chars": 2704,
+    "words_estimated": 3400,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "布局篇",
+    "hook_type": null,
+    "system_option": null,
+    "parent_child_phase": "合作期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [
+      "F-008"
+    ],
+    "issue_ids": []
+  },
+  "chapter_21": {
+    "status": "draft",
+    "title": "沙丘惊变·反杀赵高",
+    "chinese_chars": 3203,
+    "words_estimated": 3100,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "高潮篇",
+    "needs_revision": true,
+    "issues": [
+      "自称朕错误",
+      "禁卫军未抵抗300死士"
+    ],
+    "hook_type": "反转钩子",
+    "system_option": "high_risk",
+    "parent_child_phase": "合作期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [],
+    "issue_ids": [
+      "I-005",
+      "I-006"
+    ]
+  },
+  "chapter_22": {
+    "status": "draft",
+    "title": "火器立威·军制革新",
+    "chinese_chars": 2252,
+    "words_estimated": 2800,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "高潮篇",
+    "needs_revision": true,
+    "issues": [
+      "字数不足(目标2000-4000)"
+    ],
+    "hook_type": null,
+    "system_option": "basic",
+    "parent_child_phase": "合作期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [],
+    "issue_ids": [
+      "I-007"
+    ]
+  },
+  "chapter_23": {
+    "status": "draft",
+    "title": "沙丘余波·暗潮涌动",
+    "chinese_chars": 3099,
+    "words_estimated": 3900,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "高潮篇",
+    "hook_type": null,
+    "system_option": null,
+    "parent_child_phase": "合作期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [],
+    "issue_ids": []
+  },
+  "chapter_24": {
+    "status": "draft",
+    "title": "致命一击·赵高之死",
+    "chinese_chars": 2659,
+    "words_estimated": 3300,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "高潮篇",
+    "needs_revision": true,
+    "issues": [
+      "赵高说出穿越者(时代错位)"
+    ],
+    "hook_type": null,
+    "system_option": "high_risk",
+    "parent_child_phase": "合作期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [],
+    "issue_ids": [
+      "I-008"
+    ]
+  },
+  "chapter_25": {
+    "status": "draft",
+    "title": "尘埃落定·父子联手",
+    "chinese_chars": 2163,
+    "words_estimated": 2700,
+    "file_exists": true,
+    "volume": 1,
+    "volume_phase": "高潮篇",
+    "needs_revision": true,
+    "issues": [
+      "字数不足(目标2000-4000)"
+    ],
+    "hook_type": null,
+    "system_option": null,
+    "parent_child_phase": "合作期",
+    "foreshadowing_buried": [],
+    "foreshadowing_resolved": [
+      "F-001"
+    ],
+    "issue_ids": [
+      "I-009"
+    ]
+  },
+  "chapter_26": {
+    "status": "draft",
+    "title": "朝堂新局·火器之争",
+    "chinese_chars": 2500,
+    "words_estimated": 3900,
+    "file_exists": true,
+    "volume": 2,
+    "volume_phase": "卷2开篇",
+    "hook_type": "时间钩子",
+    "system_option": "基础选项C（借力打力）",
+    "parent_child_phase": "合作期",
+    "foreshadowing_buried": ["F-009"],
+    "foreshadowing_resolved": [],
+    "issue_ids": []
+  }
+}

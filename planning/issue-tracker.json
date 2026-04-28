@@ -1,0 +1,157 @@
+{
+  "issues": [
+    {
+      "id": "I-001",
+      "title": "字数不足",
+      "description": "第13章字数2361，低于目标2000-4000字下限",
+      "severity": "minor",
+      "category": "字数不足",
+      "status": "open",
+      "affected_chapters": [
+        13
+      ],
+      "resolution": "",
+      "tags": [
+        "字数"
+      ],
+      "created_at": "2026-04-28T00:00:00Z",
+      "resolved_at": null
+    },
+    {
+      "id": "I-002",
+      "title": "字数不足",
+      "description": "第14章字数1978，低于目标2000字下限",
+      "severity": "major",
+      "category": "字数不足",
+      "status": "open",
+      "affected_chapters": [
+        14
+      ],
+      "resolution": "",
+      "tags": [
+        "字数"
+      ],
+      "created_at": "2026-04-28T00:00:00Z",
+      "resolved_at": null
+    },
+    {
+      "id": "I-003",
+      "title": "字数不足",
+      "description": "第15章字数2048，处于目标下限边缘",
+      "severity": "minor",
+      "category": "字数不足",
+      "status": "open",
+      "affected_chapters": [
+        15
+      ],
+      "resolution": "",
+      "tags": [
+        "字数"
+      ],
+      "created_at": "2026-04-28T00:00:00Z",
+      "resolved_at": null
+    },
+    {
+      "id": "I-004",
+      "title": "字数不足",
+      "description": "第19章字数2510，偏低",
+      "severity": "minor",
+      "category": "字数不足",
+      "status": "open",
+      "affected_chapters": [
+        19
+      ],
+      "resolution": "",
+      "tags": [
+        "字数"
+      ],
+      "created_at": "2026-04-28T00:00:00Z",
+      "resolved_at": null
+    },
+    {
+      "id": "I-005",
+      "title": "自称朕错误",
+      "description": "赵玄非皇帝，不应自称'朕'",
+      "severity": "critical",
+      "category": "人物一致性",
+      "status": "open",
+      "affected_chapters": [
+        21
+      ],
+      "resolution": "",
+      "tags": [
+        "角色",
+        "称谓"
+      ],
+      "created_at": "2026-04-28T00:00:00Z",
+      "resolved_at": null
+    },
+    {
+      "id": "I-006",
+      "title": "禁卫军未抵抗300死士",
+      "description": "禁卫军战斗力描写不合理，300死士即可破防",
+      "severity": "major",
+      "category": "逻辑矛盾",
+      "status": "open",
+      "affected_chapters": [
+        21
+      ],
+      "resolution": "",
+      "tags": [
+        "战力",
+        "逻辑"
+      ],
+      "created_at": "2026-04-28T00:00:00Z",
+      "resolved_at": null
+    },
+    {
+      "id": "I-007",
+      "title": "字数不足",
+      "description": "第22章字数2252，偏低",
+      "severity": "minor",
+      "category": "字数不足",
+      "status": "open",
+      "affected_chapters": [
+        22
+      ],
+      "resolution": "",
+      "tags": [
+        "字数"
+      ],
+      "created_at": "2026-04-28T00:00:00Z",
+      "resolved_at": null
+    },
+    {
+      "id": "I-008",
+      "title": "赵高说出穿越者(时代错位)",
+      "description": "非穿越者角色赵高说出了穿越者才懂的现代知识",
+      "severity": "critical",
+      "category": "世界观违反",
+      "status": "open",
+      "affected_chapters": [
+        24
+      ],
+      "resolution": "",
+      "tags": [
+        "时代错位",
+        "角色"
+      ],
+      "created_at": "2026-04-28T00:00:00Z",
+      "resolved_at": null
+    },
+    {
+      "id": "I-009",
+      "title": "字数不足",
+      "description": "第25章字数2163，属于偏低范围，建议补充至2500以上",
+      "severity": "minor",
+      "category": "字数不足",
+      "status": "open",
+      "affected_chapters": [25],
+      "resolution": "",
+      "tags": ["字数"],
+      "created_at": "2026-04-28T00:00:00Z",
+      "updated_at": "2026-04-28T16:30:00Z",
+      "resolved_at": null
+    }
+  ]
+}

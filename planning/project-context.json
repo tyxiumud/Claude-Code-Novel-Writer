@@ -1,0 +1,68 @@
+{
+  "_config": {
+    "chapter_statuses": ["not_started", "draft", "published"],
+    "hook_types": ["行动钩子","反转钩子","感官钩子","时间钩子","情绪钩子","认知钩子"],
+    "parent_child_phases": ["怀疑期","试探期","合作期","明牌期","依赖期","传承期"],
+    "issue_severities": ["critical", "major", "minor", "suggestion"],
+    "issue_categories": ["逻辑矛盾","人物一致性","世界观违反","节奏问题","字数不足","其他"],
+    "foreshadowing_statuses": ["active", "resolved", "abandoned"],
+    "system_option_types": ["basic", "high_risk", "hidden"],
+    "volume_phases": ["起势篇","入局篇","破冰篇","布局篇","高潮篇","卷2开篇"],
+    "target_chapter_chars": "2000-4000"
+  },
+  "project": "大秦：系统逼我教老爹造反",
+  "platform": "番茄小说",
+  "genre": "历史穿越+系统+权谋+科技种田",
+  "style": {
+    "prose": "轻喜+权谋+科技爽文",
+    "paragraph": "短段落，适合手机阅读（≤3行）",
+    "dialogue_ratio": "30-40%",
+    "sensory_density": "≥15处感官细节/千字",
+    "paragraph_length": "<80字平均",
+    "pacing": "快节奏，2章1冲突+3章1爽点+5章1反转"
+  },
+  "structure": {
+    "total_volumes": 8,
+    "chapters_per_volume": 25,
+    "total_chapters": 200,
+    "target_total_chars": 1000000,
+    "target_chapter_chars": "2000-4000",
+    "current_volume": 2,
+    "current_chapter": 26,
+    "chapters_written": 26,
+    "chapters_published": 12
+  },
+  "hook_types": ["行动钩子","反转钩子","感官钩子","时间钩子","情绪钩子","认知钩子"],
+  "system_options": {
+    "basic": "每2章",
+    "high_risk": "每5章",
+    "hidden": "每10章"
+  },
+  "parent_child_phases": {
+    "current": "合作期(16-50章)",
+    "next": "明牌期(51-100章)",
+    "evolution": "怀疑期(1-3)→试探期(4-15)→合作期(16-50)→明牌期(51-100)→依赖期(101-150)→传承期(151-200)"
+  },
+  "tech_display_rules": [
+    "必须带人效对比数据",
+    "用感官化描述展示科技效果",
+    "每项科技有明确的解锁→试验→推广→实战四阶段"
+  ],
+  "forbidden": [
+    "赵玄自称朕（他不是皇帝）",
+    "非穿越者说出现代知识",
+    "科技跳跃式发展无过渡"
+  ],
+  "deceased": ["赵高(第25章伏诛)"],
+  "active_foreshadowing": [
+    {"id": "F-009", "name": "朝堂保守派弹劾阴谋", "status": "第26章埋入，预计第28-30章回收"}
+  ],
+  "volume_2_planning": {
+    "title": "朝堂入场券",
+    "chapters": "26-50",
+    "core_themes": ["火药军事化","朝堂权力巩固","军制改革","对外扩张准备"],
+    "key_characters_focus": ["赵玄","嬴政","蒙恬","蒙毅","扶苏","李斯"],
+    "new_characters_to_introduce": ["军方将领","六国余孽新首领"],
+    "tech_focus": ["火药武器化(火炮/火枪)","军事训练体系","后勤保障系统"]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "protagonist": {
+    "name": "赵玄",
+    "identity": {
+      "surface": "赵氏庄园公子/富商之子",
+      "real": "现代农学院研究员/穿越者",
+      "revealed": "秦始皇私生子（第9-10章揭示）",
+      "current_title": "武安侯、军器监正卿（第20章封）"
+    },
+    "age": 24,
+    "personality": ["冷静","腹黑","幽默","果断"],
+    "skills": ["农业知识","火药知识","现代管理思维","化学知识"],
+    "weaknesses": ["武力值一般","政治经验不足"],
+    "system": {
+      "name": "抉择系统",
+      "features": ["常规选项(每2章)","高风险选项(每5章)","隐藏选项(每10章)"]
+    },
+    "current_status": "卷1完结时已封侯，父子关系进入合作期",
+    "speech_traits": ["现代思维但会伪装","偶尔用现代词但会解释","冷静分析"],
+    "habits": ["危险时手指敲击桌面","思考时捻土/摸东西","紧张时深呼吸"]
+  },
+  "core_characters": {
+    "嬴政_赵大": {
+      "role": "秦始皇/父亲",
+      "age": 49,
+      "personality": ["威严","深沉","果断","护短","多疑"],
+      "current_status": "身体每况愈下(御医说最多5年)，已完全信任赵玄",
+      "relationship_with_xuan": "合作期，父子同心",
+      "speech_traits": ["简短有力","常用反问句","威严不容置疑"],
+      "habits": ["摩挲玉佩或酒樽","审视人时眼神锐利","独自站窗边思考"]
+    },
+    "赵高": {
+      "role": "卷1反派BOSS",
+      "status": "已伏诛（第24-25章）",
+      "personality": ["阴险","毒辣","隐忍","善于伪装"],
+      "note": "作为卷1主要反派已被清除，卷2起不再出现"
+    },
+    "蒙毅": {
+      "role": "郎中令/赵玄心腹盟友",
+      "identity_revealed": "第16章正式揭示",
+      "personality": ["忠诚","稳重","深谋远虑"],
+      "relationship_with_xuan": "忠心耿耿的盟友"
+    },
+    "扶苏": {
+      "role": "秦始皇长子/政治盟友",
+      "age": "比赵玄年长",
+      "personality": ["仁厚","有政治理想","儒雅"],
+      "relationship_with_xuan": "第15章建立政治联盟，兄弟关系",
+      "current_status": "与赵玄联盟，支持改革"
+    },
+    "李斯": {
+      "role": "丞相",
+      "alias": "李账房",
+      "personality": ["复杂","亦敌亦友","务实","精于权术"],
+      "current_status": "立场复杂，观望中"
+    },
+    "胡亥": {
+      "role": "秦始皇幼子",
+      "current_status": "第25章被遣送蜀中封王",
+      "personality": ["任性","心怀怨恨"],
+      "potential": "潜在后期反派"
+    },
+    "张义": {
+      "role": "三重身份者",
+      "identities": ["扶苏门客","赵高眼线","六国余孽"],
+      "revealed": "第17章揭露",
+      "current_status": "第20章被策反"
+    },
+    "蒙恬": {
+      "role": "大将军/蒙毅之兄",
+      "command": "北境三十万大军统帅",
+      "appearance": "第19章九原大捷出场",
+      "relationship_with_xuan": "忠诚盟友"
+    },
+    "王廉": {
+      "role": "少府丞/技术合作伙伴",
+      "relationship_with_xuan": "技术入股式合作"
+    }
+  },
+  "character_relationships": {
+    "赵玄_嬴政": {
+      "phase": "合作期",
+      "trust_level": "高",
+      "evolution": "怀疑期(1-3)→试探期(4-15)→合作期(16-50)",
+      "next_phase": "明牌期(51-100)"
+    },
+    "赵玄_扶苏": {
+      "type": "政治联盟+兄弟",
+      "established": "第15章"
+    },
+    "赵玄_蒙毅": {
+      "type": "心腹盟友",
+      "trust": "极高"
+    }
+  },
+  "deceased_characters": ["赵高"],
+  "future_antagonists": ["胡亥(潜在)","六国余孽残余","朝堂保守派"]
+}

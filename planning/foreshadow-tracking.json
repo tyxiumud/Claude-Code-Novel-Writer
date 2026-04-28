@@ -1,0 +1,121 @@
+{
+  "threads": [
+    {
+      "id": "F-001",
+      "name": "沙丘倒计时",
+      "description": "嬴政寿命倒计时，沙丘之变预警",
+      "buried_chapter": 1,
+      "planned_recovery_chapter": 25,
+      "actual_recovery_chapter": 25,
+      "status": "resolved",
+      "related_characters": ["赵玄", "嬴政"],
+      "notes": "第25章沙丘宫变高潮回收",
+      "created_at": "2026-04-28T00:00:00Z",
+      "updated_at": "2026-04-28T16:30:00Z"
+    },
+    {
+      "id": "F-002",
+      "name": "硫磺→火药",
+      "description": "硫磺采购引出火药配方线索",
+      "buried_chapter": 2,
+      "planned_recovery_chapter": 8,
+      "actual_recovery_chapter": 8,
+      "status": "resolved",
+      "related_characters": ["赵玄"],
+      "notes": "第8章进入丹坊确认硫磺用途，已回收",
+      "created_at": "2026-04-28T00:00:00Z",
+      "updated_at": "2026-04-28T16:30:00Z"
+    },
+    {
+      "id": "F-003",
+      "name": "蒙毅身份",
+      "description": "蒙毅（蒙叔）真实身份及其背后的势力",
+      "buried_chapter": 2,
+      "planned_recovery_chapter": 16,
+      "actual_recovery_chapter": 16,
+      "status": "resolved",
+      "related_characters": ["蒙毅", "赵玄"],
+      "notes": "第15章暗示，第16章骊山之行正式揭示身份",
+      "created_at": "2026-04-28T00:00:00Z",
+      "updated_at": "2026-04-28T16:30:00Z"
+    },
+    {
+      "id": "F-004",
+      "name": "丹坊爆炸隐患",
+      "description": "炼丹坊的火药储存安全隐患，赵高可利用",
+      "buried_chapter": 6,
+      "planned_recovery_chapter": 14,
+      "actual_recovery_chapter": 14,
+      "status": "resolved",
+      "related_characters": ["赵玄", "赵高"],
+      "notes": "第13章工坊火药储存隐患埋入，第14章朝堂弹劾回收",
+      "created_at": "2026-04-28T00:00:00Z",
+      "updated_at": "2026-04-28T16:30:00Z"
+    },
+    {
+      "id": "F-005",
+      "name": "扶苏关系线",
+      "description": "赵玄与扶苏的关系发展线，上郡来信",
+      "buried_chapter": 4,
+      "planned_recovery_chapter": 15,
+      "actual_recovery_chapter": 15,
+      "status": "resolved",
+      "related_characters": ["赵玄", "扶苏"],
+      "notes": "第4章上郡来信，第15章扶苏夜访回收",
+      "created_at": "2026-04-28T00:00:00Z",
+      "updated_at": "2026-04-28T16:30:00Z"
+    },
+    {
+      "id": "F-006",
+      "name": "骊山虎符",
+      "description": "骊山兵权虎符的权限与争夺",
+      "buried_chapter": 2,
+      "planned_recovery_chapter": 19,
+      "actual_recovery_chapter": 19,
+      "status": "resolved",
+      "related_characters": ["赵玄", "嬴政", "蒙恬"],
+      "notes": "第2章获虎符，第15章埋入线索，第19章北伐回收",
+      "created_at": "2026-04-28T00:00:00Z",
+      "updated_at": "2026-04-28T16:30:00Z"
+    },
+    {
+      "id": "F-007",
+      "name": "红薯试种",
+      "description": "红薯在新垦田地的试种与推广",
+      "buried_chapter": 5,
+      "planned_recovery_chapter": 10,
+      "actual_recovery_chapter": 10,
+      "status": "resolved",
+      "related_characters": ["赵玄"],
+      "notes": "第5章埋入，第10章千户推广完成，已回收",
+      "created_at": "2026-04-28T00:00:00Z",
+      "updated_at": "2026-04-28T16:30:00Z"
+    },
+    {
+      "id": "F-008",
+      "name": "张义三重身份",
+      "description": "张义的多重身份：扶苏门客+赵高眼线+六国余孽",
+      "buried_chapter": 17,
+      "planned_recovery_chapter": 20,
+      "actual_recovery_chapter": 20,
+      "status": "resolved",
+      "related_characters": ["张义", "赵玄", "扶苏"],
+      "notes": "第17章埋入，第20章策反回收",
+      "created_at": "2026-04-28T00:00:00Z",
+      "updated_at": "2026-04-28T16:30:00Z"
+    },
+    {
+      "id": "F-009",
+      "name": "朝堂保守派弹劾阴谋",
+      "description": "御史大夫隗状联合旧贵族保守势力，密谋借火器储存安全问题弹劾赵玄，背后可能涉及胡亥残余势力",
+      "buried_chapter": 26,
+      "planned_recovery_chapter": 30,
+      "actual_recovery_chapter": null,
+      "status": "active",
+      "related_characters": ["赵玄", "隗状", "李斯", "嬴政"],
+      "notes": "第26章埋入，李斯首次主动示警，预计第28-30章回收",
+      "created_at": "2026-04-28T10:00:00Z",
+      "updated_at": "2026-04-28T10:00:00Z"
+    }
+  ]
+}

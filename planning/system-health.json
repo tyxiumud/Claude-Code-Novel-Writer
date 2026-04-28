@@ -1,0 +1,13 @@
+{
+  "score": 100,
+  "status": "healthy",
+  "last_check": "2026-04-27T17:43:42Z",
+  "components": {
+    "agents": true,
+    "manuscript": true,
+    "planning": true,
+    "worldbuilding": true,
+    "characters": true
+  },
+  "issues": []
+}

@@ -1,0 +1,44 @@
+{
+  "world": {
+    "setting": "秦朝，始皇三十四年（前213年）",
+    "location": "咸阳（首都）、骊山、灞桥、九原（北境）",
+    "dynasty": "秦朝，始皇帝嬴政统治时期",
+    "tech_level": "古代农业社会，主角引入现代科技（曲辕犁、火药、流水线）",
+    "magic_system": "抉择系统（穿越者专属，非魔法，更接近AI辅助决策系统）"
+  },
+  "political": {
+    "system": "中央集权，三公九卿制",
+    "key_institutions": ["少府（皇室财政/手工业）","郎中令（宫殿警卫）","丞相府","御史大夫"],
+    "current_events": "焚书坑儒同期，沙丘之变（始皇驾崩）倒计时中",
+    "power_factions": [
+      {"name": "皇权派", "leader": "秦始皇", "allies": ["蒙毅","蒙恬","赵玄"], "status": "dominant"},
+      {"name": "赵高派", "leader": "赵高", "allies": ["胡亥","部分宦官"], "status": "defeated_at_vol1_end"},
+      {"name": "扶苏派", "leader": "扶苏", "allies": ["张义","部分文官"], "status": "allied_with_zhao_xuan"}
+    ]
+  },
+  "geography": {
+    "capital": "咸阳",
+    "key_locations": [
+      {"name": "赵氏庄园", "type": "private_estate", "location": "咸阳郊外灞桥"},
+      {"name": "少府", "type": "government", "location": "咸阳城内"},
+      {"name": "丹坊", "type": "alchemy_workshop", "location": "咸阳城内"},
+      {"name": "骊山", "type": "imperial_site", "location": "咸阳以东"},
+      {"name": "农器监", "type": "new_institution", "location": "咸阳郊外（第13章建立）"},
+      {"name": "火器营", "type": "military", "location": "骊山附近（第22章建立）"}
+    ]
+  },
+  "history_timeline": {
+    "novel_start": "始皇三十四年（前213年）",
+    "sandu_crisis_original": "始皇三十七年（前210年）沙丘之变",
+    "current_point": "卷1完结（约前212-211年），赵高已伏诛，沙丘之变被阻止"
+  },
+  "rules_and_constraints": [
+    "抉择系统仅赵玄可见和使用",
+    "科技展示必须带人效对比数据",
+    "每2章必有系统选项",
+    "每章结尾必有钩子",
+    "父子关系演进遵循六个阶段",
+    "赵玄不能使用朕自称（他不是皇帝）",
+    "角色不能有时代错位的知识（除非是穿越者赵玄）"
+  ]
+}

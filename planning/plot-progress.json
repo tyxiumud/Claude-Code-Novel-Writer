@@ -1,0 +1,21 @@
+{
+  "novel_title": "大秦：系统逼我教老爹造反",
+  "target_words": 1000000,
+  "total_chapters_target": 200,
+  "current_chapter": 26,
+  "current_scene": 1,
+  "current_volume": 2,
+  "total_volumes": 8,
+  "chapter_status": "draft",
+  "volume_title": "朝堂入场券",
+  "total_chinese_chars": 78129,
+  "chapters_completed": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25],
+  "chapters_published": [1,2,3,4,5,6,7,8,9,10,11,12],
+  "chapters_draft": [13,14,15,16,17,18,19,20,21,22,23,24,25,26],
+  "parent_child_phase": "合作期",
+  "last_action": "chapter_26_draft_completed",
+  "next_milestone": "volume_2_chapter_27",
+  "last_sync_time": "2026-04-28T10:00:00Z",
+  "active_foreshadowing": ["F-009"],
+  "tech_lines_active": ["火药军事化","军事训练体系","后勤保障系统","曲辕犁推广","流水线生产"]
+}
